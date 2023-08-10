@@ -13,7 +13,7 @@ pytz
 aiohttp
 wget
 
-
+dnspython==2.3.0
 gtts
 googletrans==4.0.0-rc1
 python-decouple
